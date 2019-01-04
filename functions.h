@@ -1,0 +1,10 @@
+int solve(int);
+void initialize(void);
+void all_letters(void);
+int check_if_solved(void);
+int letter_to_int(char*, int);
+int check_if_assigned(void);
+void assing_letter(int,int);
+int found(char,char*,int);
+void print_result(void);
+void unassign_last_letter(int);
